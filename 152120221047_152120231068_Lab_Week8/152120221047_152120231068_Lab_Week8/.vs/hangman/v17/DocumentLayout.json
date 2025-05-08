@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2504F3B-2253-49C3-94B1-64BBF940DFA9}|hangman.csproj|C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2504F3B-2253-49C3-94B1-64BBF940DFA9}|hangman.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2504F3B-2253-49C3-94B1-64BBF940DFA9}|hangman.csproj|c:\\users\\eren\\downloads\\152120221047_152120231068_lab_week8-1\\152120221047_152120231068_lab_week8\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2504F3B-2253-49C3-94B1-64BBF940DFA9}|hangman.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2504F3B-2253-49C3-94B1-64BBF940DFA9}|hangman.csproj|C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2504F3B-2253-49C3-94B1-64BBF940DFA9}|hangman.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2504F3B-2253-49C3-94B1-64BBF940DFA9}|hangman.csproj|c:\\users\\eren\\downloads\\152120221047_152120231068_lab_week8-1\\152120221047_152120231068_lab_week8\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2504F3B-2253-49C3-94B1-64BBF940DFA9}|hangman.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2504F3B-2253-49C3-94B1-64BBF940DFA9}|hangman.csproj|C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2504F3B-2253-49C3-94B1-64BBF940DFA9}|hangman.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2504F3B-2253-49C3-94B1-64BBF940DFA9}|hangman.csproj|C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2504F3B-2253-49C3-94B1-64BBF940DFA9}|hangman.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAswHoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:55:57.399Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAApwEkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:31:18.978Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:39:05.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:55:21.499Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T17:37:41.245Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eren\\Downloads\\152120221047_152120231068_Lab_Week8-1\\152120221047_152120231068_Lab_Week8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:48:14.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
